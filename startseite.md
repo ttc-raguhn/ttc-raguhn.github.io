@@ -51,14 +51,14 @@ Neue Gesichter sind jederzeit herzlich willkommen – einfach vorbeikommen, mits
 </div>
 
 <div class="card" style="margin-top:18px">
-	<h3>Wo wir spielen</h3>
+	<h1>Wo wir spielen</h1>
 	<div class="map-wrap">
 		<iframe src="https://www.google.com/maps?q=Turnhalle+Sekundarschule+Gartenstrasse+34+Raguhn&output=embed"></iframe>
 	</div>
 </div>
 
 <div class="card" style="margin-top:18px">
-	<h3>Sponsoren & Partner</h3>
+	<h1>Sponsoren & Partner</h1>
 	<div class="sponsors-list">
 		<a href="https://zoo-kaiser-halle.de/" target="_blank" rel="noopener noreferrer">
 			<img src="{{ '/assets/images/sponsors/zoo-kaiser.jpg' | relative_url }}" alt="Zoo Kaiser Halle">
